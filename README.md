@@ -1,19 +1,7 @@
 # School-Progamming1
 The first programming problem that I did for a class
 
-package Chapter2PPMatthewRoberts;
-/* Matthew Roberts
- * 09/24/2019
- * Project 2
- * Extra Credit: No
- * Project Description: 
- * 1) Declare two constants and assign the value 60 and 7 to each respectively
- * 2) Ask the user to enter the number of days he/she has been away from his/her pet
- * 3) Ask the user what he/she would say to his/her pet each day
- * 4) Calculate the number of seconds (using the constant declared above)
- * 5) Calculate the number of weeks accurately (using the constant declared above)
- * 
- */
+
 import java.util.Scanner;
 
 public class Chapter2PPMatthewRoberts {

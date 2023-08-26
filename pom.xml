@@ -1,0 +1,8 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>edu.alamo.www.SCHOOLPROGRAMMING1</groupId>
+    <artifactId>School-Programming1</artifactId>
+    <version>1</version>
+    <packaging>jar</packaging>
+    <url>https://github.com/FreedomFaighter/School-Progamming1</url>
+  </project>
